@@ -1,0 +1,14 @@
+1. Data points in python are dynamic.
+The term dynamic means that we can assign different values to the same variable at
+different point of time.
+
+* Python will dynamically change the type of variable as per the value given.
+
+2. Size of the data type is also dynamically managed.
+In python, size of data type is dynamically managed.
+
+Unlike C/C++/Java, variables in python are not of fixed size.
+
+Python makes variable as big as required on demand
+
+Question: How much memory Python uses to store a particular variable?
